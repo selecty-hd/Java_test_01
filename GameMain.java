@@ -18,8 +18,9 @@ import androidx.fragment.app.FragmentResultListener;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
-
-
+///////////////////////////////////////////////////////
+/// ゲーム本体のアクティビティ
+//////////////////////////////////////////////////////
 public class GameMain extends AppCompatActivity {
     GameView01 gameView01;
     RMenu rMenu;

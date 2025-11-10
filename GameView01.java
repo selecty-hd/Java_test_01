@@ -28,6 +28,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 
+/////////////////////////////////////////////////////////
+/// ゲーム本体
+////////////////////////////////////////////////////////
+
 public class GameView01 extends View implements Runnable{
     Context context;
     Paint paint;

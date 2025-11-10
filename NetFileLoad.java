@@ -23,7 +23,9 @@ import java.net.URLConnection;
 import java.util.ArrayList;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-
+/////////////////////////////////////////////////////
+/// ファイル・ダウンロード
+/// /////////////////////////////////////////////////
 public class NetFileLoad {
     ///  ////////////////////////////////////////////////
     /// ダウンロードファイルリスト（URL部分なし）

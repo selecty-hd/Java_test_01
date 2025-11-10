@@ -14,6 +14,10 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Random;
 
+    ///////////////////////////////////////////////////////////////
+    /// １ユニットの制御
+    ///     各種パラメータ、画像等、設定
+    ///////////////////////////////////////////////////////////////
     public class MUnit implements Serializable {
     ///ストレージデバイス
     ///

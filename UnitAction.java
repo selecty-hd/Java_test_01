@@ -21,8 +21,12 @@ import androidx.fragment.app.FragmentManager;
 
 import java.util.ArrayList;
 
-
-
+///////////////////////////////////////////////////////////////////
+///ユニットをタッチした場合の、ダイアログ(1)
+///     移動
+///     攻撃
+///     その他
+/// //////////////////////////////////////////////////////////////
 public class UnitAction extends DialogFragment {
     MUnit mUnit;    //アクティブユニット
     int mode= 0;    //ゲームモード

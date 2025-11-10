@@ -20,6 +20,7 @@ import java.io.File;
 import java.util.ArrayList;
 ///////////////////////////////////////////////////////////////
 /// タイトル画面のアクティビティ
+///     グラフィックはXML参照
 //////////////////////////////////////////////////////////////
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     

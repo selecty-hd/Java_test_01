@@ -1,9 +1,0 @@
-diff a/GameMain.java b/GameMain.java	(rejected hunks)
-@@ -18,7 +18,6 @@
- import java.io.File;
- import java.io.FileNotFoundException;
- import java.util.ArrayList;
--
- ///////////////////////////////////////////////////////
- /// ゲーム本体のアクティビティ
- //////////////////////////////////////////////////////
